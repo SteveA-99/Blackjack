@@ -1,8 +1,4 @@
 /*
-CS281-Spring 2020
-Blackjack Card Game
-Steven Awakem
-5/23/20
 This is blackjack where you will be given one card and will have the options to either hit or stay and you need to get 21 or close to beat the dealer
 */
 
